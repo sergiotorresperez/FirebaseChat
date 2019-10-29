@@ -1,2 +1,2 @@
 # FirebaseChat
-Instant message chat based on Firebase real time database
+Instant message chat based on Firebase real time db
